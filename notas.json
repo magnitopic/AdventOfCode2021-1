@@ -1,0 +1,46 @@
+{
+    "Clase1":{
+        "Alumnos":{
+            "Maria":{
+                "Nota media":,
+                "Notas":{
+                    1.0,
+                    2.5,
+                    5.3,
+                    2.7
+                }
+            },
+            "Alberto":{
+                "Nota media":,
+                "Notas":{
+                    9.2,
+                    4.2,
+                    7.9,
+                    1.4
+                }
+            }
+        }
+    },
+    "Clase2":{
+        "Alumnos":{
+            "Victor":{
+                "Nota media":,
+                "Notas":{
+                    9.6,
+                    9.7,
+                    5.1,
+                    7.5
+                }
+            },
+            "Tania":{
+                "Nota media":,
+                "Notas":{
+                    7.4,
+                    6.1,
+                    1.2,
+                    3.9
+                }
+            }
+        }
+    }
+}
